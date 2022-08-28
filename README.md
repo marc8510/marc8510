@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/froldanzafra/](https://www.linkedin.com/in/marc-edelmann-229b55230/))
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Marc.Edelmann@gmx.net)
 
-I'm Marc! I am **software developer**, looking to improve, test, solve and develop your projects. I'm passionate about making **programms** better everyday, creating software and tools to help people especially in the field of **Data Engineering**.:man_factory_worker:  <br />As an bodybuilder by heart I use to say: No matter how hard the problem is to solve, it will be never as hard as benching 400lbs.:moyai:
+I'm Marc! I am **software developer**, looking to improve, test, solve and develop your projects. I'm passionate about making **programms** better everyday, creating software and tools to help people especially in the field of **Data Engineering**.:man_factory_worker:  <br />Being a bodybuilder in my free time I always love new challenges no matter how heavy it will be.:moyai:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" />
 
 
