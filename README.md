@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marc8510&label=Profile%20views&color=0e75b6&style=flat" alt="marc8510" /> </p>
 
 
-I'm Marc! I am **software developer**, looking to improve, test, solve and develop your projects. I'm passionate about making **programms** better everyday, creating software and tools to help people especially in the field of **Data Engineering**.:man_factory_worker:  <br />Being a bodybuilder in my free time I always love new challenges no matter how heavy it will be.:moyai:
+I'm Marc! I am **software developer**, looking to improve, test, solve and develop new projects. I'm passionate about making **programms** better everyday, creating software and tools to help people especially in the field of **Data Engineering**.:man_factory_worker:  <br />Being a bodybuilder in my free time I always love new challenges no matter how heavy it will be.:moyai:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" />
 
 
