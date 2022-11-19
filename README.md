@@ -23,8 +23,8 @@ I'm Marc! I am **software developer**, looking to improve, test, solve and devel
 - Developing new data solutions for your business needs
 - Data Integrations -> Data Factory solutions, preparing to transform into the cloud, pivotization of data and much more
 - Transforming and storing structured, semi-structured and unstructured data 
-- Construct clean code from the teachings of Robert C. Martin
-- Data visualizations mainly in Tableau
+- Construct clean code
+- Data visualizations
 
 
 
